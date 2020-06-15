@@ -9,4 +9,4 @@ var password=nome + cognome + colore + "19";
 // output in pagina :scrivi sulla pagina nomecognomecolorepreferito19
 document.getElementById('password').innerHTML="la password generata è: " + password;
 // uso console
-console.log("La password è stata generata con i dati inseriti")
+console.log("La password è stata generata con i dati inseriti");
